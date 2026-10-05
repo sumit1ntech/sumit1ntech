@@ -56,12 +56,12 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 <br>
 # 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
-![](https://github-readme-stats.shion.dev/api?username=codew1thsumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=codew1thsumit&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=sumit1ntch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=sumit1ntech&theme=dark&hide_border=false)
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codew1thsumit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumit1ntech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
