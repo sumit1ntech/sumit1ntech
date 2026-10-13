@@ -57,7 +57,6 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 # 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
 ![](https://github-readme-stats.shion.dev/api?username=sumit1ntech&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=sumit1ntech&theme=radical&hide_border=true)<br/>
 
 
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
