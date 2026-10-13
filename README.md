@@ -57,7 +57,6 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 # 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 ![](https://streak-stats.demolab.com/?user=sumit1ntech&theme=radical&hide_border=true)<br/>
 
----
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 🚀 **Let's Connect & Build Together!**  
 Whether you have a question, want to collaborate on an exciting new project, or just want to say hi—my inbox is always open! Feel free to reach out to me on social media or drop a direct message. I’m always eager to network, share ideas, and connect with awesome people! 💡✨
