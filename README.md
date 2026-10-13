@@ -62,10 +62,15 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 🚀 **Let's Connect & Build Together!**  
 Whether you have a question, want to collaborate on an exciting new project, or just want to say hi—my inbox is always open! Feel free to reach out to me on social media or drop a direct message. I’m always eager to network, share ideas, and connect with awesome people! 💡✨
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codew1thsumit)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codew1thsumit)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dev.sumitbhaya@gmail.com)
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/codew1thsumit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dev.sumitbhaya@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 # ☕ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙮 𝙒𝙤𝙧𝙠 
 If you find my projects helpful or enjoy what I build, consider supporting my journey! 💻✨
