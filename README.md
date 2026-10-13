@@ -64,13 +64,19 @@ I'm always open to collaboration, interesting projects, and connecting with peop
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumit1ntech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
+🚀 **Let's Connect & Build Together!**  
+Whether you have a question, want to collaborate on an exciting new project, or just want to say hi—my inbox is always open! Feel free to reach out to me on social media or drop a direct message. I’m always eager to network, share ideas, and connect with awesome people! 💡✨
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codew1thsumit)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codew1thsumit)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dev.sumitbhaya@gmail.com)
 
-# ☕ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙮 𝙒𝙤𝙧𝙠
-**If you find my projects useful or want to support my learning journey:**<br><br>
+# ☕ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙈𝙮 𝙒𝙤𝙧𝙠 
+If you find my projects helpful or enjoy what I build, consider supporting my journey! 💻✨
+
+* ☕ **Fuel the Code:** Every coffee powers late-night sessions and open-source projects.
+* 💡 **Empower Growth:** Your support helps me keep learning, experimenting, and creating.<br>
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codew1thsumit)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
